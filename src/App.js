@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <ListItem
-        companyName={"Яндекс"}
+        companyName={"Яндекс Крауд"}
         desc={"додуматься засунуть ссылку на макет как картинку это курто"}
         link={
           "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FPUvPHGRa%2B70P1QIsZ4xxsCM%2BIGIkJYl7fj8OhOdIUczJRzzNGmCnPN2EmjDZfYRlq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=A4%20-%201.pdf"
@@ -54,6 +54,15 @@ function App() {
         }
         link={
           "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FmgruDdCnQXIu17kZveXDquVtd5%2FXnQTBBhNKjLXfNGix0yK%2F8bJD2P%2FiydJZPh2tq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=ТЗ_бэк_фронт_диз.docx&nosw=1"
+        }
+      />
+      <ListItem
+        companyName={"mindBox"}
+        desc={
+          "давать тестовое только чтобы иметь возможность откликнуться-это жестко"
+        }
+        link={
+          "https://docs.google.com/document/d/15QkApDkQqtzLSVW7Fpyluwj-BvUIHFXBjvvFCe77Aaw/edit?tab=t.0#heading=h.zavj7sd1thwb"
         }
       />
     </div>
