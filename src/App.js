@@ -65,6 +65,13 @@ function App() {
           "https://docs.google.com/document/d/15QkApDkQqtzLSVW7Fpyluwj-BvUIHFXBjvvFCe77Aaw/edit?tab=t.0#heading=h.zavj7sd1thwb"
         }
       />
+      <ListItem
+        companyName={"Делаем IT"}
+        desc={"интересно конечно работать с криптой, но не знаю"}
+        link={
+          "https://docs.google.com/document/d/1g8if8tbBOrjjl2bqFnOP1dxzwGxf-UsdcGSigz8P7qQ/edit?tab=t.0"
+        }
+      />
     </div>
   );
 }
