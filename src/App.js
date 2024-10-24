@@ -72,6 +72,13 @@ function App() {
           "https://docs.google.com/document/d/1g8if8tbBOrjjl2bqFnOP1dxzwGxf-UsdcGSigz8P7qQ/edit?tab=t.0"
         }
       />
+      <ListItem
+        companyName={"Onpoint"}
+        desc={
+          "очень странное тз, кто в 2024 веке использует PS для макетов, ни UI кита, ни дэшборда"
+        }
+        link={"https://onpoint.ru/dev_task"}
+      />
     </div>
   );
 }
