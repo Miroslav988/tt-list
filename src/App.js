@@ -79,6 +79,13 @@ function App() {
         }
         link={"https://onpoint.ru/dev_task"}
       />
+      <ListItem
+        companyName={"CAD Exchange"}
+        desc={"емае"}
+        link={
+          "https://download.cadexchanger.com/documents/hiring/frontend/CADEX%20frontend%20developer%20assigment%20for%20probationeers.pdf"
+        }
+      />
     </div>
   );
 }
