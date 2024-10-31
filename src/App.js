@@ -86,6 +86,15 @@ function App() {
           "https://download.cadexchanger.com/documents/hiring/frontend/CADEX%20frontend%20developer%20assigment%20for%20probationeers.pdf"
         }
       />
+      <ListItem
+        companyName={"Only"}
+        desc={
+          "жыль не OnlyFams, но тз очень крутое и сроки хорошие, целая неделя, это вам не At-work(черти)"
+        }
+        link={
+          "https://docs.google.com/document/d/1Qy4MN7duYzm-Wr-rQ4TFApvUoxfuqGXdcyA8-vt5Dhg/edit?tab=t.0"
+        }
+      />
     </div>
   );
 }
