@@ -95,6 +95,15 @@ function App() {
           "https://docs.google.com/document/d/1Qy4MN7duYzm-Wr-rQ4TFApvUoxfuqGXdcyA8-vt5Dhg/edit?tab=t.0"
         }
       />
+      <ListItem
+        companyName={"Жилфонд"}
+        desc={
+          "Звуучит достаточно интересно, правда в стеке не была указана pinia, но это отличный повод поработать со стейт менеджерами"
+        }
+        link={
+          "https://docs.google.com/document/d/1duogz2g-vh-vvNzAkDRZu8fA1zr15bk6buCUhUVmrqs/edit?tab=t.0"
+        }
+      />
     </div>
   );
 }
