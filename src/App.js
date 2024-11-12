@@ -98,11 +98,18 @@ function App() {
       <ListItem
         companyName={"Жилфонд"}
         desc={
-          "Звуучит достаточно интересно, правда в стеке не была указана pinia, но это отличный повод поработать со стейт менеджерами"
+          "Звучит достаточно интересно, правда в стеке не была указана pinia, но это отличный повод поработать со стейт менеджерами"
         }
         link={
           "https://docs.google.com/document/d/1duogz2g-vh-vvNzAkDRZu8fA1zr15bk6buCUhUVmrqs/edit?tab=t.0"
         }
+      />
+      <ListItem
+        companyName={"Vela"}
+        desc={
+          "Первое ТЗ на онлайн магазин, очень понравилось его делать, так же были достаточно сжатые сроки 3-4 часа"
+        }
+        linl={"https://github.com/velaweb/test-front"}
       />
     </div>
   );
